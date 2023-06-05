@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "rating": 5,
+    "name": "Gordon Ramsey",
+    "review": "This lamb is so raw, i mean so good. Really its good!",
+    "image": "https://cdn.britannica.com/83/127183-050-89DFBDE2/Gordon-Ramsay-British-restaurateur.jpg"
+  },
+  {
+    "id": 2,
+    "rating": 5,
+    "name": "Uncle Roger",
+    "review": "Fuiyoh! Its so good.",
+    "image": "https://cdn.weirdkaya.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/Uncle-Roger-on-Screen.png.webp"
+  },
+  {
+    "id": 3,
+    "rating": 5,
+    "name": "Jamie Oliver",
+    "review": "So good...",
+    "image": "https://img.jamieoliver.com/home/wp-content/uploads/2022/09/together-cover.jpeg?tr=w-1006,h-550"
+  }
+]

@@ -1,0 +1,40 @@
+section.LL-Banner {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 100px;
+  padding: 1.25rem 12%;
+  max-width: 100%;
+  /* background-color: darkgray; */
+  background-color: var(--color-primary);
+  color: var(--color-white);
+}
+
+.LL-Banner-left h1 {
+  color: var(--color-primary-2);
+}
+
+.LL-Banner-left .subtitle {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.LL-Banner-left {
+  display: flex;
+  flex-direction: column;
+}
+.LL-Banner-right {
+  height: 400px;
+  border-radius: 8px;
+}
+
+.LL-Banner-right img {
+  height: 100%;
+  width: 450px;
+  object-fit: cover;
+}
+
+#LL-Banner-desc {
+  padding: 3rem 0;
+}
